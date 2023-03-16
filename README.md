@@ -1,2 +1,3 @@
-# business-analytics
-Repository of Business Analytics notebooks
+# Analytics Portfolio
+
+Repository of Business Analytics & Data Science notebooks.
