@@ -1,3 +1,3 @@
-<font size='8'><b>Analytics Portfolio</b></font>
+# Analytics Portfolio
 
-Repository of Business Analytics notebooks
+Repository of Business Analytics & Data Science notebooks.
