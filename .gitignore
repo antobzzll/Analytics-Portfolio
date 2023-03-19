@@ -127,5 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Business Analytics/E-commerce/customers-clustering.ipynb
-Business Analytics/E-commerce/data1.csv
