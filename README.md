@@ -2,6 +2,6 @@
 
 Repository of Business Analytics & Data Science notebooks.
 
-Classic problems & datasets:
+**Classic data science problems & datasets**:
 
-* [Understanding survival on the Titanic](./Classic datasets/Titanic/titanic.csv)
+* [Understanding survival on the Titanic](./Classic%20datasets/Titanic/titanic.ipynb)
