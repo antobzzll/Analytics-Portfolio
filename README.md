@@ -12,7 +12,7 @@ Welcome to my Analytics Portfolio, a repository of business analytics and data s
 
 * [Understanding Survival on the Titanic](./Classic%20datasets/Titanic/titanic.ipynb)
 
-</br></br>
+----
 **Contacts**
 
 * [LinkedIn](https://www.linkedin.com/in/antonio-buzzelli/)
