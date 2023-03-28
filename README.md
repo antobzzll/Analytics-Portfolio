@@ -8,4 +8,4 @@ Welcome to my Analytics Portfolio, a repository of business analytics and data s
 
 ## Classic data science problems & datasets
 
-* [Understanding survival on the Titanic](./Classic%20datasets/Titanic/titanic.ipynb)
+* [Understanding Survival on the Titanic](./Classic%20datasets/Titanic/titanic.ipynb)
