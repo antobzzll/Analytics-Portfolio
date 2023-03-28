@@ -1,4 +1,4 @@
-# Analytics Portfolio
+# Antonio Buzzelli's **Analytics Portfolio**
 
 Welcome to my Analytics Portfolio, a repository of business analytics and data science notebooks. Here, you will find a collection of insightful and informative notebooks on various topics related to data analytics, including machine learning, statistical analysis, data visualization, and much more.
 
