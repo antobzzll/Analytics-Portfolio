@@ -2,7 +2,12 @@
 
 Welcome to my Analytics Portfolio, a repository of business analytics and data science notebooks. Here, you will find a collection of insightful and informative notebooks on various topics related to data analytics, including machine learning, statistical analysis, data visualization, and much more.
 
+**Personal pages:**
 
+* [LinkedIn](https://www.linkedin.com/in/antonio-buzzelli/)
+* [Kaggle](https://www.kaggle.com/antobzzll)
+
+---
 
 ## Business Analytics
 
@@ -11,9 +16,3 @@ Welcome to my Analytics Portfolio, a repository of business analytics and data s
 ## Miscellaneous
 
 * [Understanding Survival on the Titanic](./Classic%20datasets/Titanic/titanic.ipynb)
-
-----
-**Contacts**
-
-* [LinkedIn](https://www.linkedin.com/in/antonio-buzzelli/)
-* [Kaggle](https://www.kaggle.com/antobzzll)
