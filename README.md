@@ -16,3 +16,4 @@ Welcome to my Analytics Portfolio, a repository of business analytics and data s
 ## Miscellaneous
 
 * [Understanding Survival on the Titanic](./Classic%20datasets/Titanic/titanic.ipynb)
+– Businesses can utilize machine learning not only to make predictions but also to unveil valuable insights that are deeply embedded in their data. Using one of the most commonly used datasets in the study of data science – the Titanic dataset –, I demonstrate how supervised learning can serve as a data mining technique to achieve a deep understanding of phenomena and generate Personas.
