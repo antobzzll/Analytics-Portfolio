@@ -1,5 +1,3 @@
-<font size='6'>Antonio Buzzelli</font></br>
-
 # 📊 Analytics Portfolio
 
 Welcome to my repository of *analytics* and *data science* notebooks.
