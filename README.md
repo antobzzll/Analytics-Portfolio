@@ -12,7 +12,7 @@ Here, you will find a collection of studies and analyses in which I make use of 
 
 ## 🏁 Sports Analytics
 
-* 🏍️ [Modeling Race Performance in Motorsports](./Sports/MotoGP/performance.ipynb) – Dwelving in the world of MotoGP racing, I illustrate how making use of public race data can provide fans with a more structured and comprehensive understanding of the objective performance of race competitors.
+* 🏍️ [Modeling Race Performance in Motorsports](./Sports/MotoGP/performance.html) – Dwelving in the world of MotoGP racing, I illustrate how making use of public race data can provide fans with a more structured and comprehensive understanding of the objective performance of race competitors.
 
 ## 🪁 Miscellaneous
 
